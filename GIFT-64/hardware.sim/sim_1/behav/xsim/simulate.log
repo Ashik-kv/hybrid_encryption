@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Note: --- Starting Encryption Test ---
+Time: 70 ns  Iteration: 0  Process: /tb_gift64_core/stimulus_process  File: C:/Users/archa/Documents/project/hardware/hardware.srcs/sim_1/new/tb_gift.vhd
+Error: [FAIL] Encryption failed!
+Time: 365 ns  Iteration: 0  Process: /tb_gift64_core/stimulus_process  File: C:/Users/archa/Documents/project/hardware/hardware.srcs/sim_1/new/tb_gift.vhd
+Note: --- Starting Decryption Test ---
+Time: 415 ns  Iteration: 0  Process: /tb_gift64_core/stimulus_process  File: C:/Users/archa/Documents/project/hardware/hardware.srcs/sim_1/new/tb_gift.vhd
+Note: [PASS] Decryption successful. Output matches original plaintext.
+Time: 715 ns  Iteration: 0  Process: /tb_gift64_core/stimulus_process  File: C:/Users/archa/Documents/project/hardware/hardware.srcs/sim_1/new/tb_gift.vhd
+Note: --- All Tests Completed ---
+Time: 715 ns  Iteration: 0  Process: /tb_gift64_core/stimulus_process  File: C:/Users/archa/Documents/project/hardware/hardware.srcs/sim_1/new/tb_gift.vhd
