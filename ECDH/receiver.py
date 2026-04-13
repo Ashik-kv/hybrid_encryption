@@ -5,9 +5,9 @@ from cryptography.hazmat.primitives.asymmetric import x25519
 from cryptography.hazmat.primitives import serialization
 
 # --- CONFIGURATION ---
-SERIAL_PORT = "COM4" 
+SERIAL_PORT = "COM4" # port should be the one that is connected to fpga
 BAUD_RATE   = 115200
-MQTT_BROKER = "localhost" # <--- MUST MATCH SENDER (Ubuntu IP)
+MQTT_BROKER = "localhost" # make sure change the IP
 MY_TOPIC    = "fpga/receiver/pubkey"
 PEER_TOPIC  = "fpga/sender/pubkey"
 DATA_TOPIC  = "fpga/secure/data"
