@@ -1,5 +1,5 @@
 This directory contains the python files for ECDH implementaton and also the sender receiver communication.
-The sender should be running before the receiver is run.
+The sender should be running before the receiver.
 
 Library that should be installed
 - paho-mqtt
